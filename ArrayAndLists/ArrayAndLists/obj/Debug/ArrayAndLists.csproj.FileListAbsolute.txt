@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\bin\Debug\ArrayAndLists.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndLists\ArrayAndLists\obj\Debug\ArrayAndLists.pdb

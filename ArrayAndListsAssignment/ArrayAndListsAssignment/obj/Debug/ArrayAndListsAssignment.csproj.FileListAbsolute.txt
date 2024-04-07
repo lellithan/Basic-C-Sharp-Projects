@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\bin\Debug\ArrayAndListsAssignment.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\bin\Debug\ArrayAndListsAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\bin\Debug\ArrayAndListsAssignment.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\obj\Debug\ArrayAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\obj\Debug\ArrayAndListsAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ArrayAndListsAssignment\ArrayAndListsAssignment\obj\Debug\ArrayAndListsAssignment.pdb
