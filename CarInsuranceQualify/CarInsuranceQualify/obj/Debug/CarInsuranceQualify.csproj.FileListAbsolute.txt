@@ -1,0 +1,7 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\bin\Debug\CarInsuranceQualify.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.csproj.AssemblyReference.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CarInsuranceQualify\CarInsuranceQualify\obj\Debug\CarInsuranceQualify.pdb
