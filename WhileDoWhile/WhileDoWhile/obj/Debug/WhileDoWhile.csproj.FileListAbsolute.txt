@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.pdb
