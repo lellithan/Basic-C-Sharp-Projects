@@ -1,0 +1,7 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\bin\Debug\assignment140.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\bin\Debug\assignment140.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\bin\Debug\assignment140.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\obj\Debug\assignment140.csproj.AssemblyReference.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\obj\Debug\assignment140.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\obj\Debug\assignment140.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\assignment140\assignment140\obj\Debug\assignment140.pdb

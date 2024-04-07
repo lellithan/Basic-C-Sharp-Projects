@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\bin\Debug\MathAndOperations.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\bin\Debug\MathAndOperations.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\bin\Debug\MathAndOperations.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\obj\Debug\MathAndOperations.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\obj\Debug\MathAndOperations.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MathAndOperations\MathAndOperations\obj\Debug\MathAndOperations.pdb
