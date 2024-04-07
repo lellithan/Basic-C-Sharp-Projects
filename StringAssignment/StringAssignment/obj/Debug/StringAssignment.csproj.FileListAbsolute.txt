@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
