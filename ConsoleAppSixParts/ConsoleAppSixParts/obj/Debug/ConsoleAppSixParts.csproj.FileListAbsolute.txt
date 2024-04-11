@@ -1,0 +1,7 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\bin\Debug\ConsoleAppSixParts.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\bin\Debug\ConsoleAppSixParts.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\bin\Debug\ConsoleAppSixParts.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\obj\Debug\ConsoleAppSixParts.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\obj\Debug\ConsoleAppSixParts.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\obj\Debug\ConsoleAppSixParts.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\ConsoleAppSixParts\ConsoleAppSixParts\obj\Debug\ConsoleAppSixParts.csproj.AssemblyReference.cache
