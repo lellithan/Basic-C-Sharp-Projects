@@ -8,19 +8,17 @@ namespace MethodsAssignment
 {
     public class byFive
     {
-        public byFive() { userInput = 0; }
         public int timesFive(int user)
         {
-            return userInput * 5;
+            return user * 5;
         }
         public int plusFive(int user)
         {
-            return userInput + 5;
+            return user + 5;
         }
         public int minusFive(int user)
         {
-            return userInput - 5;
+            return user - 5;
         }
-        public int userInput;
     }
 }
