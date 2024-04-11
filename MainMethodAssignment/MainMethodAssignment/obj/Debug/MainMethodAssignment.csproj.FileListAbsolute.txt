@@ -1,0 +1,6 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
