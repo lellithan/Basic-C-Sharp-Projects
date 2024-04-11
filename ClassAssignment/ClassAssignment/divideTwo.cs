@@ -9,7 +9,7 @@ namespace ClassAssignment
     // step 1 - created a class that has a void int that outputs an int
     class divideTwo
     {
-        public static void Operate(int num)
+        public void Operate(int num)
         {
             Console.WriteLine("The num passed in divided by 2 is: " + num / 2);
         }

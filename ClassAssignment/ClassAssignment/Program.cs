@@ -17,11 +17,11 @@ namespace ClassAssignment
             int userInput;
             int userInputTwo = Convert.ToInt32(Console.ReadLine());
 
-            // overloaded methods. one that has an out and one does not. one is static and the other is not.
-            // because the operate has an out we need to create a variable that we are going to instatiate
-            // within the method and output it to its place in memory here.
-            divideTwo.Operate(userInputTwo);
-            // becasue this method is static we instead make a call to it by the class type. not the instance of divide decalared earlier
+            // overloaded methods. one that has an out and one does not.
+            divide.Operate(userInputTwo);
+            // becasue this class is static we can make a call to it by the class type
+            staticDivide.Operate(userInputTwo);
+            Console.WriteLine("Please enter another number for the method with out params.");
             divide.Operate(out userInput);
             Console.WriteLine(userInput);
             Console.ReadLine();
