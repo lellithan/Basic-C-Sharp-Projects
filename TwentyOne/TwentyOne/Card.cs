@@ -29,8 +29,6 @@ namespace TwentyOne
         Eight,
         Nine,
         Ten,
-        Eleven,
-        Twelve,
         Jack,
         Queen,
         King,

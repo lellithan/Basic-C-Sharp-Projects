@@ -1,0 +1,7 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\bin\Debug\LAMBDAassignment.exe.config
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\bin\Debug\LAMBDAassignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\bin\Debug\LAMBDAassignment.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\obj\Debug\LAMBDAassignment.csproj.AssemblyReference.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\obj\Debug\LAMBDAassignment.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\obj\Debug\LAMBDAassignment.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\LAMBDAassignment\LAMBDAassignment\obj\Debug\LAMBDAassignment.pdb
