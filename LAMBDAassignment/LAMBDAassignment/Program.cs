@@ -10,6 +10,7 @@ namespace LAMBDAassignment
     {
         static void Main(string[] args)
         {
+            // create list and add 10 employees to it
             List<Employee> employees = new List<Employee>();
             Employee one = new Employee("Joe", "Dirt", 1);
             Employee two = new Employee("Bob", "Dirt", 2);
@@ -33,6 +34,8 @@ namespace LAMBDAassignment
             employees.Add(nine);
             employees.Add(ten);
 
+            // using a foreach loop search employees and find all items with the fname "Joe"
+            // and add them to the list Joes
             List<Employee> Joes = new List<Employee>();
             foreach (Employee employee in employees)
             {
@@ -42,12 +45,14 @@ namespace LAMBDAassignment
                 }
             }
 
+            // print to console for fun
             foreach (Employee joe in Joes)
             {
                 Console.WriteLine(joe.firstName + " " + joe.lastName + " | ID: " + joe.ID);
             }
 
-            List<Employee> joes = employees.Where(x => Convert.ToString(x.firstName) == "Joe").ToList();
+            // no foreach loop needed! lambda expression does the job all in one line!
+            List<Employee> joes = employees.Where(x => x.firstName == "Joe").ToList();
 
             foreach (Employee joe in joes)
             {
