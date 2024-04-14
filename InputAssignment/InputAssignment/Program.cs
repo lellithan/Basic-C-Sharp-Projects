@@ -11,8 +11,18 @@ namespace InputAssignment
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Please enter a whole number to be appended to a document.");
             int userInput = Convert.ToInt32(Console.ReadLine());
-
+            using (StreamWriter file = new StreamWriter(@"C:\Users\New User\Logs\assignmentLogs.txt", true))
+            {
+                file.WriteLine(userInput);
+            }
+            using (StreamReader file = new StreamReader(@"C:\Users\New User\Logs\assignmentLogs.txt", true))
+            {
+                string filePrint = file.ReadToEnd();
+                Console.WriteLine("assignmentLogs.txt file: \n" + filePrint);
+            }
+            Console.ReadLine();
         }
     }
 }
