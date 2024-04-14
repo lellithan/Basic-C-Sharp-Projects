@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -23,7 +23,7 @@ namespace TwentyOne
                 file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
-                Deck.Cards.RemoveAt(0);
+            Deck.Cards.RemoveAt(0);
         }
     }
 }

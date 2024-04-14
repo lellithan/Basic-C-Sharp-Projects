@@ -41,3 +41,5 @@ C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\Twenty
 C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
 C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
 C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
