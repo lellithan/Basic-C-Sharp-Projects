@@ -10,7 +10,7 @@ namespace ConstructorAssignment
     {
         public string Hello { get; set; }
         public string World { get; set; }
-        public ChainCons() : this("Hello", " World!")
+        public ChainCons() : this("Hello,", " World!")
         {
         }
         public ChainCons(string hello) : this(hello, " World!")
