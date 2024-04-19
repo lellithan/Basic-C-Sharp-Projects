@@ -8,6 +8,7 @@ namespace LAMBDAassignment
 {
     public class Employee
     {
+        public Employee() { }
         public Employee(string fName, string lName, int id)
         {
             firstName = fName;
