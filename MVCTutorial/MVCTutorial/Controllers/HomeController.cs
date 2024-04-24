@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVCTutorial.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,19 +11,26 @@ namespace MVCTutorial.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            User user = new User();
+            user.Id = 1;
+            user.FirstName = "Ellie";
+            user.LastName = "Faulhaber";
+            user.Age = 26;
+            return View(user);
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
 
+            throw new Exception("Invalid Page.");
+
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Contact(int id = 0)
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = id;
 
             return View();
         }
