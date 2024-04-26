@@ -1,0 +1,13 @@
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\New User\source\repos\lellithan\Basic-C-Sharp-Projects\CMDProjects\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
